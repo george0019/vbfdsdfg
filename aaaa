@@ -1,0 +1,11 @@
+static void functionable() {
+    1             int k;
+    2             for (int i=0; i < 10; ++i) {
+    3                 if (someCondition(i)) {
+    4                    k=0;
+    5                 else 
+    6                   k+=i; }
+
+    7                continue;
+    8       Functionable();	  }
+    9            System.out.println(k);}
